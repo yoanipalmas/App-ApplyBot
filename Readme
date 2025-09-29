@@ -1,0 +1,19 @@
+# LinkedIn Job Automation App
+
+Este proyecto es una aplicación React que simula la automatización de aplicaciones a puestos junior de full stack en LinkedIn.
+
+---
+
+## Requisitos
+
+- Node.js (versión 14 o superior recomendada)
+- npm (viene con Node.js)
+
+---
+
+## Cómo ejecutar la aplicación localmente
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/linkedin-job-automation.git
